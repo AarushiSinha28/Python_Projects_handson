@@ -1,6 +1,16 @@
 # Python_Projects_handson
 Practice Python Projects based on skill soft course 
 
+## Libraries covered in this project
+
+1. pyshorteners: To shorten the URL to a more readable format.
+2. cv2: Popular image and video processing library.
+3. webbrowser: to open browser applications using code.
+4. BeautifulSoup: popular library used for web scraping.
+5. pyttsx3:Text to speech conversion.
+6. speech_recognition: Speech to text conversion .
+7. smtplib: communitate with our smpt server witch are use on mainly services like gmail, yahoo, email services.
+
 
 ## Creating an environment
 
